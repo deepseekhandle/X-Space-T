@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # Constants
-BOT_TOKEN = "7800796697:AAF4QMhIbSmUJhWstZKxKPaHJp2T8Eg-TQw"
+BOT_TOKEN = "7875448627:AAE_DW_twG-gFz3PRFLrhitFTqOgBEiWmLI"
 CHANNEL_USERNAME = "aixflycom"  # Channel username without @
 CHANNEL_LINK = f"https://t.me/{CHANNEL_USERNAME}"
 DEFAULT_USER_LIMIT = 5000
